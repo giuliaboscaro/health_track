@@ -1,0 +1,121 @@
+.container-fluid.bg-1 {
+    background-color: #2f456f;
+    background-image: url();
+    color: white;
+    box-shadow: inset 0px 0px 70px 40px rgba(27, 41, 69, 0.6);
+}
+
+.bg-2 {
+    background-color: #c3c3c3;
+}
+
+h1.main-title {
+    font-size: 80px;
+}
+
+header div.container-fluid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom-style: groove;
+}
+
+main div.container-fluid {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom-style: groove;
+    
+}
+
+.peso, .alimentacao, .atividade, .pressao{
+    padding-top: 30px;
+}
+
+.peso h3, .alimentacao h3, .atividade h3, .pressao h3{
+    color: #2f456f;
+}
+
+.glyphicon-plus{
+    font-size: 100px;
+}
+
+
+.login, .signup{
+    width: 180px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+.modal-body a{
+    color: white !important;
+    text-decoration: none;
+    background-color: #1e2c48 !important;
+    font-size: 15pt;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.modal-body a:hover{
+    color: #1e2c48 !important;
+    text-decoration: none;
+    background-color: white!important;
+}
+
+button:hover{
+    background-color: #1e2c48 !important;
+    color: white !important;
+    border: none;
+}
+
+footer div.container-fluid {
+    height: 60px;
+    padding: 20px;
+}
+
+.bg-2 h2 {
+    font-weight: bold;
+    color: #2f456f;
+}
+
+p {
+    font-size: 12pt;
+}
+
+.modal-dialog {
+    color: black;
+    padding-top: 150px;
+}
+
+.modal-header {
+    border-bottom: none;
+    background-color: #2f456f;
+    box-shadow: inset 0px 0px 20px 80px rgba(27, 41, 69, 0.7);
+}
+
+.modal-footer {
+    padding: 10px;
+    background-color: #2f456f;
+    box-shadow: inset 0px 0px 20px 80px rgba(27, 41, 69, 0.7);
+    text-align: center;
+}
+
+.modal-footer a {
+    color: #fff;
+}
+
+
+.gender, .uheight{
+    text-align: left;
+    
+}
+
+
+.fa-heartbeat {
+    font-size: 15em;
+}
+
+.modal-title {
+    color: #fff;
+    font-size: 20pt;
+}
